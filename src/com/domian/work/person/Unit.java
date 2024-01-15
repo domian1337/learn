@@ -44,7 +44,4 @@ public class Unit {
     public void setHealpoint(int healpoint) {
         this.healpoint = healpoint;
     }
-
-
-
 }
